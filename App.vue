@@ -14,4 +14,6 @@
 
 <style>
 	/*每个页面公共css */
+	@import url("./assest/style/base.css");
+	@import url("./assest/style/iconfont.css");
 </style>
