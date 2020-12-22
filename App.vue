@@ -16,4 +16,6 @@
 	/*每个页面公共css */
 	@import url("./assest/style/base.css");
 	@import url("./assest/style/iconfont.css");
+	/* 导入animate动画样式*/
+	@import url("./assest/style/animate.css");
 </style>

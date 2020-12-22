@@ -4,6 +4,8 @@
 	<view class="bg-danger">hello world</view>
 	<text class="iconfont icon-shengdantubiao-02"></text>
 	<my-icon iconName="icon-shengdantubiao-02"></my-icon>
+	<view style="width:100rpx; height: 100rpx; background-color: red;"
+	class="animate__animated" hover-class="animate__fadeOutRight"></view>
 	</view>
 </template>
 
