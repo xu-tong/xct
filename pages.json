@@ -19,6 +19,18 @@
 			"path": "pages/mine/mine",
 			"style": {
 			}
+		},
+		{
+			"path":"pages/readList/readList"
+		},
+		{
+			"path":"pages/listenNoval/listenNoval"
+		},
+		{
+			"path":"pages/listenMusic/listenMusic"
+		},
+		{
+			"path":"pages/listenKnowledge/listenKnowledge"
 		}
 	],
 	"globalStyle": {
